@@ -23,3 +23,4 @@ int main() {
     Kyan kyan_object; 
 
     cout << "Kyan's age: " << kyan_object.get_kyan_age() << endl; 
+}
